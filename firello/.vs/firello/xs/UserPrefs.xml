@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{A71D56E8-5EAB-4181-AA74-44C57D741003}|Default">
+  <MonoDevelop.Ide.ItemProperties.firello PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="firello/Data/AppDbContext.cs">
+    <Files>
+      <File FileName="firello/Views/Shared/_Layout.cshtml" />
+      <File FileName="firello/Models/BaseEntity.cs" />
+      <File FileName="firello/Models/Slider.cs" />
+      <File FileName="firello/Models/SliderInfo.cs" />
+      <File FileName="firello/Models/Category.cs" />
+      <File FileName="firello/Models/Product.cs" />
+      <File FileName="firello/Models/ProductImage.cs" />
+      <File FileName="firello/Models/SurprisePanel.cs" Line="8" Column="1" />
+      <File FileName="firello/Models/SurpriseImage.cs" Line="1" Column="1" />
+      <File FileName="firello/Models/Expert.cs" />
+      <File FileName="firello/Data/AppDbContext.cs" Line="74" Column="1" />
+      <File FileName="firello/appsettings.json" />
+      <File FileName="firello/appsettings.Development.json" />
+      <File FileName="firello/Program.cs" />
+      <File FileName="firello/ViewModels/HomeVM.cs" />
+      <File FileName="firello/Controllers/HomeController.cs" />
+      <File FileName="firello/Views/_ViewImports.cshtml" />
+      <File FileName="firello/Views/_ViewStart.cshtml" />
+      <File FileName="firello/Views/Home/Index.cshtml" Line="124" Column="27" />
+      <File FileName="firello/Migrations/20240702082909_CreatedSliderTableProducts.cs" Line="13" Column="9" />
+      <File FileName="firello/Migrations/20240702081621_CreatedSliderTabless.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firello">
+            <Node name="firello">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="AppDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
